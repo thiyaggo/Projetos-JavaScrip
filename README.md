@@ -1,2 +1,2 @@
-# Projeto Todo list
-Aqui estão os projetos de javaScript
+# Projeto Lista de tarefas
+Aqui esta um projeto de listas de tarefas
