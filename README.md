@@ -17,3 +17,13 @@ Uma aplicação simples CRUD (Create e Delete)
 - [x] **Deletar**: Apaga tarefa.
 - [x] **Selecionar**: Seleciona tarefa.
 
+## 🛠️ Como rodar o projeto
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/thiyaggo/todo-list-mysql-express.git
+    ```
+
+    ## ✉️ Contato
+
+Desenvolvido por **[Thiago Ferreira]** – [https://www.linkedin.com/in/thiago-ferreira-desenvolvedor/]
